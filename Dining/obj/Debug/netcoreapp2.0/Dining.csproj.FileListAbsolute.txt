@@ -1,0 +1,11 @@
+/Users/ato/Projects/Dining/Dining/bin/Debug/netcoreapp2.0/Dining.deps.json
+/Users/ato/Projects/Dining/Dining/bin/Debug/netcoreapp2.0/Dining.runtimeconfig.json
+/Users/ato/Projects/Dining/Dining/bin/Debug/netcoreapp2.0/Dining.runtimeconfig.dev.json
+/Users/ato/Projects/Dining/Dining/bin/Debug/netcoreapp2.0/Dining.dll
+/Users/ato/Projects/Dining/Dining/bin/Debug/netcoreapp2.0/Dining.pdb
+/Users/ato/Projects/Dining/Dining/obj/Debug/netcoreapp2.0/Dining.csprojResolveAssemblyReference.cache
+/Users/ato/Projects/Dining/Dining/obj/Debug/netcoreapp2.0/Dining.csproj.CoreCompileInputs.cache
+/Users/ato/Projects/Dining/Dining/obj/Debug/netcoreapp2.0/Dining.AssemblyInfoInputs.cache
+/Users/ato/Projects/Dining/Dining/obj/Debug/netcoreapp2.0/Dining.AssemblyInfo.cs
+/Users/ato/Projects/Dining/Dining/obj/Debug/netcoreapp2.0/Dining.dll
+/Users/ato/Projects/Dining/Dining/obj/Debug/netcoreapp2.0/Dining.pdb
